@@ -960,7 +960,7 @@ const App = ()=>{
     }));
 };
 _c = App;
-_reactDomDefault.default.render(/*#__PURE__*/ _jsxRuntime.jsx(Main, {
+_reactDomDefault.default.render(/*#__PURE__*/ _jsxRuntime.jsx(App, {
     __source: {
         fileName: "src/index.js",
         lineNumber: 10
