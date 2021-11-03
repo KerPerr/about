@@ -1,0 +1,131 @@
+{
+    "profil": {
+        "nom": "Castrec",
+        "prenom": "Pierre",
+        "adresse": {
+            "rue": "Chateau Hebert",
+            "cp": 35800,
+            "ville": "Dinard"
+        },
+        "email": "p.castrec@gmail.com",
+        "telephone": "06 99 09 51 72",
+        "poste": "Developpeur"
+    },
+    "qualites": [
+        "Calme",
+        "Curieux",
+        "Polyvalent"
+    ],
+    "langues": [
+        {
+            "title": "Anglais",
+            "level": 4
+        },
+        {
+            "title": "Russe",
+            "level": 1
+        }
+    ],
+    "loisirs": [
+        "Basket-Ball",
+        "Godot Engine",
+        "Unity 3D"
+    ],
+    "competences": [
+        {
+            "title": "Javascript",
+            "level": 4
+        },
+        {
+            "title": "JAVA",
+            "level": 3
+        },
+        {
+            "title": "Python",
+            "level": 2
+        },
+        {
+            "title": "Angular",
+            "level": 4
+        },
+        {
+            "title": "ReactJS",
+            "level": 4
+        },
+        {
+            "title": "PostgreSQL",
+            "level": 4
+        },
+        {
+            "title": "MongoDB",
+            "level": 3
+        },
+        {
+            "title": "Docker",
+            "level": 3
+        }
+    ],
+    "experiences": {
+        "pro": [
+            {
+                "start_date": "Aout 2018",
+                "end_date": "Octobre 2019",
+                "title": "Gestionnaire Administration / Technique",
+                "contrat": "Alternance",
+                "societe": "Allianz France",
+                "description": "Développement d’outil de pilotage (VBA) pour la consolidation de données issues de rapports mensuels. Conception et développement en autonomie de service web (api) et de site web dynamique (Nodejs , Angular, WebSocket) dédié à Allianz France. Conception d’application graphique multi-threader (C++)."
+            },
+            {
+                "start_date": "Decembre 2016",
+                "end_date": "Janvier 2018",
+                "title": "Developpeur Web",
+                "contrat": "Alternance",
+                "societe": "Equantec",
+                "description": "Développement d’interface « responsive design » (AngularJS, Bootstrap). Utilisation de web services Google « Geocoding API ». Conception et intégration de schémas de bases de données. Développement de routes d’accès aux données à l’aide de l’ORM Sequelize. Générations de PDF dynamiques avec les données issues de la base de données (PhantomJS). Mises à jour et déploiement de l’application sur Docker."
+            }
+        ],
+        "perso": [
+            "Conception et développement d'une API dédiée à la gestion des données de jeu en ligne temps réel (socket.io)",
+            "Conception de jeux 2D et 3D (PixiJS, Three.js) multi-joueurs sur navigateur",
+            "Conception et développement d’une application mobile (iOS, Android) avec le framework React-native"
+        ]
+    },
+    "formations": [
+        {
+            "start_date": "Decembre 2016",
+            "end_date": "Octobre 2019",
+            "title": "M1 - Concepteur Developpeur Informatique",
+            "lieu": "ENI, Rennes"
+        },
+        {
+            "start_date": "Septembre 2016",
+            "end_date": "Decembre 2016",
+            "title": "POEC - Developpeur Integrateur Web PHP",
+            "lieu": "ENI, Rennes"
+        },
+        {
+            "start_date": "2013",
+            "end_date": "2015",
+            "title": "M2 - Chef de projet en Strategie Digitale",
+            "lieu": "IESA Multimedia, Paris"
+        },
+        {
+            "start_date": "2011",
+            "end_date": "2013",
+            "title": "M1 - Ingenieur systemes embarques & telecommunications",
+            "lieu": "ESTEI, Bordeaux"
+        },
+        {
+            "start_date": "2009",
+            "end_date": "2011",
+            "title": "DEES Ingenieur des Science et Techniques",
+            "lieu": "ESTEI, Bordeaux"
+        },
+        {
+            "start_date": "2007",
+            "end_date": "2008",
+            "title": "BTS - Systemes embarques",
+            "lieu": "Lycee La Fayette, Champagne sur Seine"
+        }
+    ]
+}
