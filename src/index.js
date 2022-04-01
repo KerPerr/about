@@ -1,9 +1,15 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
+import { useMediaQuery } from './Helpers/useMediaQuery'
+
+import { Home } from './Home/Home'
 
 const App = () => {
+    
+    const [width] = useMediaQuery();
+
     return (
-        <h1>Homepage</h1>
+        <Home width={width}/>
     )
 }
 

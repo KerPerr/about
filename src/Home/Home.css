@@ -1,0 +1,21 @@
+.name {
+    color: #5448C8;
+    font-weight: bold;
+}
+
+.poste {
+    font-weight: bold;
+}
+
+.profil {
+    width: 35vh;
+    margin: 1em auto;
+    border-radius: 70%;
+}
+
+.title {
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+    background-color: #5448C8;
+}
